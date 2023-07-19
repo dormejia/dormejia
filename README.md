@@ -1,5 +1,5 @@
 # Hola 👋🏼, Soy Dorian Renato Mejia CHay
-#### soy una persona comprometida con su trabajo, con experiencia en el área bancaria y con conocimientos de nuevas tecnologías de desarrollo. Tengo buenas habilidades tanto analíticas como numéricas para llevar a cabo las operaciones que se me sean asignadas.
+#### soy una persona comprometida con su trabajo, con experiencia en el área bancaria y con conocimientos de nuevas tecnologías de desarrollo. Tengo buenas habilidades tanto analíticas como numéricas para llevar a cabo las operaciones que se me asignen.
 ##  ⚙ Lenguajes de Programacion ⚙
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg"
